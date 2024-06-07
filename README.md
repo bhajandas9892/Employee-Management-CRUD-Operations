@@ -16,9 +16,6 @@ This repository demonstrates comprehensive CRUD (Create, Read, Update, Delete) o
 - Spring Boot
 - MySQL
 - Postman
-- Cloud Vendor API
-![Screenshot 2024-05-07 001327](https://github.com/bhajandas9892/Employee-Management-CRUD-Operations/assets/169164145/ad9486d1-709e-462f-af0a-d9cc6aac47ed)
-
 
 ## Getting Started
 
